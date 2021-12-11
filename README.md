@@ -16,6 +16,9 @@ Cool science stuff for Novo Nordisk where I am working as an external consultant
 
 I am reading in data from the different lab instruments and creating algorithms to automatically extract features for different molecules.
 
+<img src="https://i.pinimg.com/originals/04/d4/50/04d45030af00b248e9cf11c9e9f0021c.gif" width="300px">
+
+
 <br>
 <hr>
 <br>
@@ -23,6 +26,8 @@ I am reading in data from the different lab instruments and creating algorithms 
 ## 🌱 I’m currently learning ...
 
 How to make Streamlit apps to communicate the cool data science that I do.
+
+<img src="https://aws1.discourse-cdn.com/business7/uploads/streamlit/original/2X/2/247a8220ebe0d7e99dbbd31a2c227dde7767fbe1.gif" width="300px">
 
 <br>
 <hr>
@@ -66,19 +71,19 @@ I am an avid photographer and artist - and I love heavy metal.
 
 <p align="left">
   <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" alt="Scala" width="50" height="50" />
+    <img src="logos/r.svg" alt="R" width="50" height="50" />
+    <img src="logos/python.svg" alt="Python" width="50" height="50" />
+    <img src="logos/javascript.svg" alt="Javascript" width="50" height="50" />
+    <img src="logos/scala.svg" alt="Scala" width="50" height="50" />
   <br>
 </p>
 
 #### IDEs
 <p align="left">
   <br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="Rstudio" width="50" height="50" />
-    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50" />
+    <img src="logos/rstudio.svg" alt="Rstudio" width="50" height="50" />
+    <img src="logos/vscode.svg" alt="VSCode" width="50" height="50" />
+    <img src="logos/jupyter.svg" alt="Jupyter" width="50" height="50" />
   <br>
 </p>
 
@@ -86,8 +91,8 @@ I am an avid photographer and artist - and I love heavy metal.
 #### DevOps
 <p align="left">
   <br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+    <img src="logos/docker.svg" alt="Docker" width="50" height="50" />
+    <img src="logos/git.svg" alt="Git" width="50" height="50" />
   <br>
 </p>
 
@@ -95,27 +100,27 @@ I am an avid photographer and artist - and I love heavy metal.
 #### OS
 <p align="left">
   <br>
-    <img src="https://www.svgrepo.com/download/162625/apple-logo.svg" alt="Mac OS" width="50" height="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="50" height="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="50" height="50" />
+    <img src="logos/apple.svg" alt="Mac OS" width="50" height="50" />
+    <img src="logos/linux.svg" alt="Linux" width="50" height="50" />
+    <img src="logos/windows.svg" alt="Windows" width="50" height="50" />
   <br>
 </p>
 
 #### Databases
 <p align="left">
   <br>
-    <img src="https://worldvectorlogo.com/download/elasticsearch.svg" alt="Elastic Search" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" />
+    <img src="logos/elasticsearch.svg" alt="Elastic Search" width="50" height="50" />
+    <img src="logos/postgresql.svg" alt="PostgreSQL" width="50" height="50" />
   <br>
 </p>
 
 #### Frontend
 <p align="left">
   <br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="50" height="50" />
+    <img src="logos/css3.svg" alt="CSS3" width="50" height="50" />
+    <img src="logos/sass.svg" alt="Sass" width="50" height="50" />
+    <img src="logos/html5.svg" alt="HTML5" width="50" height="50" />
+    <img src="logos/vuejs.svg" alt="VueJS" width="50" height="50" />
     <img src="logos/quasar.svg" alt="Quasar" width="50" height="50" />
 
   <br>
