@@ -144,9 +144,6 @@ mindmap
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikkelkrogsholm&layout=compact&hide_border=true&title_color=F75C7E&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikkelkrogsholm&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="mikkelkrogsholm" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikkelkrogsholm&custom_title=Mikkel's%20Contribution%20Graph&bg_color=0d1117&color=F75C7E&line=F75C7E&point=ff9494&area=true&hide_border=true" />
@@ -235,10 +232,4 @@ gitGraph
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57e9f9f1.gif" width="100">
-  <h3>Thanks for visiting! Rock on! 🤘</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="800" height="40">
 </div>
