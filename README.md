@@ -134,6 +134,69 @@ mindmap
 
 </details>
 
+<!-- Repository Showcase -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" height="40" /> Featured Projects
+
+<div align="center">
+  
+  ### 🌟 Most Popular
+  
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/mikkelkrogsholm/api-mapper">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikkelkrogsholm&repo=api-mapper&theme=radical&hide_border=true" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/mikkelkrogsholm/valgdata2022">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikkelkrogsholm&repo=valgdata2022&theme=radical&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  ### 🧠 AI & Automation
+  
+  **api-mapper** (146⭐) • **ai-prepper** (8⭐) • **AI-Editor**
+  
+  Leading the charge in AI-powered development tools and automation solutions.
+  
+  ### 📊 Data Science Ecosystem
+  
+  <details>
+  <summary><b>🇩🇰 Danish Data Solutions</b></summary>
+  
+  - **statsDK** - Comprehensive R package for Statistics Denmark API
+  - **geoDK** - Geographic data processing for Danish regions
+  - **valgdata2022** - Election data analysis framework (11⭐)
+  - **badevand** - Beach water quality monitoring API
+  - **alarmeringsapp** - Emergency alert data parser
+  
+  </details>
+  
+  <details>
+  <summary><b>📈 Statistical Packages</b></summary>
+  
+  - **billboard** - Billboard Hot 100 data (1960-2016)
+  - **osrm** - Open Source Routing Machine R wrapper
+  - **dbplyr3** - Database backend for dplyr
+  - **nutrientprofiling** - Nutritional data analysis tools
+  
+  </details>
+  
+  ### 🚀 Open Source Contributions
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/Total%20Repos-100+-brightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Primary%20Language-R-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Focus-Data%20Science-orange?style=for-the-badge" />
+  </div>
+  
+</div>
+
 <!-- GitHub Stats with Style -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
