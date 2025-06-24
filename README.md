@@ -1,129 +1,251 @@
-<img src="graphics/cover.svg" width="1000px">
+<div align="center">
+  <img src="banner.gif" alt="Mikkel Krogsholm Banner" width="100%" />
+</div>
 
-### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-<br>
-<hr>
-<br>
-
-[![Mikkels's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikkelkrogsholm&show_icons=true&theme=radical)](https://github.com/mikkelkrogsholm/github-readme-stats)
-
-<br>
-<hr>
-<br>
-
-## 🔭 I’m currently working on ...
-
-Cool science stuff for Novo Nordisk where I am working as an external consultant through Teradata. 
-
-I am reading in data from the different lab instruments and creating algorithms to automatically extract features for different molecules.
-
-<img src="https://i.pinimg.com/originals/04/d4/50/04d45030af00b248e9cf11c9e9f0021c.gif" width="300px">
-
-
-<br>
-<hr>
-<br>
-
-## 🌱 I’m currently learning ...
-
-How to make Streamlit apps to communicate the cool data science that I do.
-
-<img src="https://aws1.discourse-cdn.com/business7/uploads/streamlit/original/2X/2/247a8220ebe0d7e99dbbd31a2c227dde7767fbe1.gif" width="300px">
-
-<br>
-<hr>
-<br>
-
-## 💬 Ask me about ...
-Everything related to R. I have extensive knowledge of the language, so please reach out if you have questions.
-
-I am also a fairly good Python programmer, so feel free to reach out in that regard too.
-
-<br>
-<hr>
-<br>
-
-## 📫 How to reach me: ...
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mikkelkrogsholm/" target="_blank">
-    <img src="https://img.shields.io/badge/-Mikkel Freltoft Krogsholm-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikkelkrogsholm/"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Welcome+to+my+digital+playground!+%F0%9F%9A%80;Generative+AI+Visionary+%F0%9F%A4%96;Heavy+Metal+Meets+AI+%F0%9F%A4%98;Building+the+Future+with+Code+%E2%9A%A1" alt="Typing SVG" />
   </a>
-  <a href="mailto:mikkelkrogsholm@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mikkelkrogsholm&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<!-- Animated Wave -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" height="40" /> About This Viking Coder
+
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```python
+class MikkelKrogsholm:
+    def __init__(self):
+        self.name = "Mikkel Freltoft Krogsholm"
+        self.location = "Copenhagen, Denmark 🇩🇰"
+        self.current_focus = "Turning AI dreams into reality"
+        self.companies = {
+            "Brokk og Sindre ApS": "AI Magic for Businesses ✨",
+            "Helheim ApS": "Where Metal Meets Machine Learning 🤘"
+        }
+        
+    def current_stack(self):
+        return {
+            "🧠 AI/ML": ["Ollama", "LM Studio", "Hugging Face", 
+                         "Mistral", "Claude", "GPT-4"],
+            "🐍 Languages": ["Python", "R", "Scala", "JavaScript"],
+            "🗄️ Data": ["PostgreSQL", "Elasticsearch", "Neo4j"],
+            "🚀 Tools": ["Docker", "Streamlit", "Activepieces"],
+            "🎸 Special": ["Heavy Metal Concert AI", "Norse Mythology"]
+        }
+        
+    def achievements(self):
+        return [
+            "🏢 Led AI transformation at Teradata (7+ years)",
+            "🛒 Automated IKEA's global sales forecasting",
+            "💊 Advanced Novo Nordisk's bioinformatics",
+            "🤖 Trusted AI advisor to major Danish companies"
+        ]
+```
+
+<br clear="right"/>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" height="40" /> What I'm Building
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="150">
+        <h3>🤖 AI Solutions</h3>
+        <p>Cutting-edge generative AI for businesses</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="150">
+        <h3>🎸 Helheim</h3>
+        <p>AI-powered metal concert platform</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="150">
+        <h3>📊 Data Science</h3>
+        <p>From insights to impact</p>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+<!-- Tech Stack Section with Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60" height="60" /> Tech Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,scala,js,ts,react,vue,nodejs,docker,kubernetes,postgres,elasticsearch,tensorflow,pytorch,aws,gcp,git,github,vscode,linux&theme=dark&perline=10" />
+</div>
+
+<br>
+
+<details>
+<summary><b>🎯 Click for Detailed Tech Stack</b></summary>
+<br>
+
+```mermaid
+mindmap
+  root((Mikkel's Tech))
+    AI/ML
+      Generative AI
+        Ollama
+        LM Studio
+        Hugging Face
+      Frameworks
+        TensorFlow
+        PyTorch
+        Scikit-learn
+    Data Engineering
+      Databases
+        PostgreSQL
+        Elasticsearch
+        Neo4j
+      Processing
+        Apache Spark
+        Pandas
+        Dask
+    Automation
+      Activepieces
+      Flowise
+      Python Scripts
+    Visualization
+      Streamlit
+      Plotly
+      D3.js
+```
+
+</details>
+
+<!-- GitHub Stats with Style -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Contribution" width="40" height="40" /> GitHub Metrics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mikkelkrogsholm&show_icons=true&count_private=true&hide_border=true&title_color=F75C7E&icon_color=F75C7E&text_color=c9d1d9&bg_color=0d1117" alt="Mikkel Krogsholm github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikkelkrogsholm&layout=compact&hide_border=true&title_color=F75C7E&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikkelkrogsholm&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="mikkelkrogsholm" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikkelkrogsholm&custom_title=Mikkel's%20Contribution%20Graph&bg_color=0d1117&color=F75C7E&line=F75C7E&point=ff9494&area=true&hide_border=true" />
+</div>
+
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mikkelkrogsholm&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+<!-- Professional Journey -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" /> Professional Timeline
+
+```mermaid
+gitGraph
+    commit id: "Started Journey"
+    commit id: "Aarhus University 📚"
+    branch teradata
+    checkout teradata
+    commit id: "Senior Data Scientist II"
+    commit id: "IKEA Automation 🛒"
+    commit id: "Novo Nordisk APIs 💊"
+    checkout main
+    merge teradata
+    branch entrepreneurship
+    checkout entrepreneurship
+    commit id: "Founded Brokk og Sindre 🔧"
+    commit id: "Founded Helheim 🤘"
+    commit id: "AI Revolution 🚀"
+    checkout main
+    merge entrepreneurship
+    commit id: "Present: AI Visionary"
+```
+
+<!-- Certifications & Contact -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Certificate" width="40" height="40" /> Credentials & Publications
+
+<div align="center">
+  
+  ### 🏆 Certifications
+  <img src="https://img.shields.io/badge/PRINCE2-Foundation-5E5E5E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAA4SURBVHjaYvz//z8DOYCJgUxAuVGNoxpHNQ5FjSzEaGRhYGD4z0A+YPn//z8jLmAh1TBGxtEwBQCLTQgFH3jFDAAAAABJRU5ErkJggg==">
+  <img src="https://img.shields.io/badge/Epidemiology-Public%20Health-green?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAA4SURBVHjaYvz//z8DOYCJgUxAuVGNoxpHNQ5FjSzEaGRhYGD4z0A+YPn//z8jLmAh1TBGxtEwBQCLTQgFH3jFDAAAAABJRU5ErkJggg==">
+  
+  ### 📚 Publications
+  **"Kom i gang med R"** | **"EU's Forfatningstraktat og Lissabontraktaten"**
+  
+</div>
+
+<!-- Connect Section -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" height="60" /> Let's Connect & Build Something Amazing!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mikkelkrogsholm">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  <a href="mailto:mikkelkrogsholm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.mikkelkrogsholm.dk">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://56n.dk">
+    <img src="https://img.shields.io/badge/56n.dk-4A90E2?style=for-the-badge&logo=building&logoColor=white" />
+  </a>
+  <a href="tel:+4530333204">
+    <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
 
 <br>
-<hr>
-<br>
 
-## ⚡ Fun fact: ...
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+</div>
 
-I am an avid photographer and artist - and I love heavy metal.
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
-<br>
-<hr>
-<br>
+<!-- Footer -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### Tech Stack
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
-#### Languages
-
-<p align="left">
-  <br>
-    <img src="logos/r.svg" alt="R" width="50" height="50" />
-    <img src="logos/python.svg" alt="Python" width="50" height="50" />
-    <img src="logos/javascript.svg" alt="Javascript" width="50" height="50" />
-    <img src="logos/scala.svg" alt="Scala" width="50" height="50" />
-  <br>
-</p>
-
-#### IDEs
-<p align="left">
-  <br>
-    <img src="logos/rstudio.svg" alt="Rstudio" width="50" height="50" />
-    <img src="logos/vscode.svg" alt="VSCode" width="50" height="50" />
-    <img src="logos/jupyter.svg" alt="Jupyter" width="50" height="50" />
-  <br>
-</p>
-
-
-#### DevOps
-<p align="left">
-  <br>
-    <img src="logos/docker.svg" alt="Docker" width="50" height="50" />
-    <img src="logos/git.svg" alt="Git" width="50" height="50" />
-  <br>
-</p>
-
-
-#### OS
-<p align="left">
-  <br>
-    <img src="logos/apple.svg" alt="Mac OS" width="50" height="50" />
-    <img src="logos/linux.svg" alt="Linux" width="50" height="50" />
-    <img src="logos/windows.svg" alt="Windows" width="50" height="50" />
-  <br>
-</p>
-
-#### Databases
-<p align="left">
-  <br>
-    <img src="logos/elasticsearch.svg" alt="Elastic Search" width="50" height="50" />
-    <img src="logos/postgresql.svg" alt="PostgreSQL" width="50" height="50" />
-  <br>
-</p>
-
-#### Frontend
-<p align="left">
-  <br>
-    <img src="logos/css3.svg" alt="CSS3" width="50" height="50" />
-    <img src="logos/sass.svg" alt="Sass" width="50" height="50" />
-    <img src="logos/html5.svg" alt="HTML5" width="50" height="50" />
-    <img src="logos/vuejs.svg" alt="VueJS" width="50" height="50" />
-    <img src="logos/quasar.svg" alt="Quasar" width="50" height="50" />
-
-  <br>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57e9f9f1.gif" width="100">
+  <h3>Thanks for visiting! Rock on! 🤘</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="800" height="40">
+</div>
