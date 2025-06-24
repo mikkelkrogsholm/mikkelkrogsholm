@@ -27,8 +27,6 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" height="40" /> About This Viking Coder
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 ```python
 class MikkelKrogsholm:
     def __init__(self):
@@ -58,8 +56,6 @@ class MikkelKrogsholm:
             "🤖 Trusted AI advisor to major Danish companies"
         ]
 ```
-
-<br clear="right"/>
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -215,11 +211,8 @@ gitGraph
   <a href="mailto:mikkelkrogsholm@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.mikkelkrogsholm.dk">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://56n.dk">
-    <img src="https://img.shields.io/badge/56n.dk-4A90E2?style=for-the-badge&logo=building&logoColor=white" />
+  <a href="https://brokk-sindre.dk">
+    <img src="https://img.shields.io/badge/BrokkSindre-4A90E2?style=for-the-badge&logo=building&logoColor=white" />
   </a>
   <a href="tel:+4530333204">
     <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
